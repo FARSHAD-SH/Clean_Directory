@@ -1,0 +1,77 @@
+{
+    "images": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".gif",
+      ".bmp",
+      ".tiff",
+      ".tif"
+    ],
+    "videos": [
+      ".mp4",
+      ".mov",
+      ".avi",
+      ".wmv",
+      ".flv",
+      ".mkv",
+      ".mpg",
+      ".mpeg"
+    ],
+    "audio": [
+      ".mp3",
+      ".wav",
+      ".flac",
+      ".aac",
+      ".ogg",
+      ".wma"
+    ],
+    "documents": [
+      ".doc",
+      ".docx",
+      ".xls",
+      ".xlsx",
+      ".ppt",
+      ".pptx",
+      ".pdf",
+      ".txt",
+      ".rtf",
+      ".odt",
+      ".ods",
+      ".odp"
+    ],
+    "compressed": [
+      ".zip",
+      ".rar",
+      ".7z",
+      ".tar",
+      ".gz",
+      ".bz2",
+      ".xz",
+      ".z",
+      ".tgz"
+    ],
+    "torrents": [
+      ".torrent"
+    ],
+    "other": [
+      ".exe",
+      ".msi",
+      ".deb",
+      ".rpm",
+      ".iso",
+      ".dmg",
+      ".apk",
+      ".ipa",
+      ".app",
+      ".exe",
+      ".msi",
+      ".deb",
+      ".rpm",
+      ".iso",
+      ".dmg",
+      ".apk",
+      ".ipa",
+      ".app"
+    ]
+  }
